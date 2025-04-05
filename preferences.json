@@ -21,13 +21,13 @@
     "property": "mod.urlbar.colorful_border",
     "label": "Use colorful gradient border",
     "type": "checkbox",
-    "defaultValue": true
+    "defaultValue": false
   },
   {
     "property": "mod.urlbar.glow_effect",
     "label": "Enable glow effect on focus",
     "type": "checkbox",
-    "defaultValue": true
+    "defaultValue": false
   },
   {
     "property": "mod.urlbar.border_radius",
